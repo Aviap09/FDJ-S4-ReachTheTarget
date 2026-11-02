@@ -17,14 +17,14 @@ WASD ou setas.
 - Targets
 - Feedback
 
-##Desafios Realizados
+## Desafios Realizados
 - Godot: G1, G2
 - Unity:
 
-##Questão de Análise
+## Questão de Análise
 A variável foi exportada do codigo com "[Export]", para que fosse possivel alterar o valor no Inspector.
 
-##Comparar as duas engines
+## Comparar as duas engines
 
 | Aspeto | Godot 4 .NET | Unity |
 |---|---|---|
@@ -49,7 +49,7 @@ Reflexão Curta: Na minha opinião, o Godot é bem mais intuitivo que o Unity. U
 
 
 
-##Reflexão Final
+## Reflexão Final
 1.Qual foi a principal diferença que encontrou entre a criação do Player no Unity e no Godot?
 Penso que a criação em ambas as engines foi bastante parecida, mas no Godot a criação é um pouco mais simples e intuitiva enquanto que no Unity ela é um pouco menos óbvia e complexa.
 

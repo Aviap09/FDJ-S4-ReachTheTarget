@@ -71,11 +71,11 @@ As engines tinham o papel de dar os objetos e conectar o código aos objetos, en
 
 
 ## Links Importantes
-[Repositório do Reach The Target - Godot](https://github.com/Aviap09/reach-the-target-godot)
+Unity: [Repositório do Reach The Target - Godot](https://github.com/Aviap09/reach-the-target-godot)
 
-[Repositório do Reach The Target - Unity](https://github.com/Aviap09/reach-the-target-unity)
+Godot: [Repositório do Reach The Target - Unity](https://github.com/Aviap09/reach-the-target-unity)
 
-[Projeto Github](https://github.com/users/Aviap09/projects/2/views/2)
+Projeto: [Projeto Github](https://github.com/users/Aviap09/projects/2/views/2)
 
 ## Autor
 Luís Paiva A051646

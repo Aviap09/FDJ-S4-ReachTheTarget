@@ -19,7 +19,7 @@ WASD ou setas.
 - Feedback
 
 ## Desafios Realizados
-- Godot: G1, G2
+- Godot: G1, G2, G3, G4,
 - Unity:
 
 ## Questão de Análise
@@ -52,12 +52,15 @@ Reflexão Curta: Na minha opinião, o Godot é bem mais intuitivo que o Unity. U
 
 ## Reflexão Final
 1.Qual foi a principal diferença que encontrou entre a criação do Player no Unity e no Godot?
+
 Penso que a criação em ambas as engines foi bastante parecida, mas no Godot a criação é um pouco mais simples e intuitiva enquanto que no Unity ela é um pouco menos óbvia e complexa.
 
 2.Onde ficou definido o comportamento do Player em cada motor?
+
 No Unity ficou num script chamado PlayerController, dentro do método Update que a cada frame carrega o código dentro dele. No Godot fica num scipt chamado Player, dentro do método _PhysicsProcess que carrega o código dentro dele 60 vezes por segundo (physics frame).
 
 3.Que papel teve o motor e que papel teve o código?
+
 As engines tinham o papel de dar os objetos e conectar o código aos objetos, enquanto o código contêm as interações, relações e ações que os objetos relacionados vão realizar.
 
 4.Qual das melhorias exigiu mais experimentação e porquê?

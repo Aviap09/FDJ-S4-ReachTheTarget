@@ -1,12 +1,13 @@
 # Reach the Target
 Ferramentas de Desenvolvimento de Jogos | Semana 4
+
 Tutorial prático - Reach the Target | Godot 4 .NET e Unity | Página 12
 
 ## Engine
 Godot 4 .NET / Unity
 
 ## Objetivo
-Aprender a implmentar um código para movimentar o jogador e ativar triggers com outros objetos.
+Aprender a implementar um código para movimentar o jogador e ativar triggers com outros objetos.
 
 ## Controlos
 WASD ou setas.

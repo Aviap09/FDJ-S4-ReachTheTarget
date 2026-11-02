@@ -25,7 +25,7 @@ WASD ou setas.
 ## Questão de Análise
 A variável foi exportada do codigo com "[Export]", para que fosse possivel alterar o valor no Inspector.
 
-## Comparar as duas engines
+## Comparação das duas engines
 
 | Aspeto | Godot 4 .NET | Unity |
 |---|---|---|
